@@ -10,7 +10,7 @@ I am a full stack Data Scientist in training. One of my other areas of interest 
 
 
 ## 🔗 Links
-[![Github](https://github.com/)](https://github.com/LongeJosephWayas)
+[![Github]([https://github.com/](https://github.com/LongeJosephWayas)](https://github.com/LongeJosephWayas))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/longe-joseph-wayas/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/uyimakenulonge?t=PrRYX1uDPgDlfuUKsa58Nw&s=09)
 
